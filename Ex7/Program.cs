@@ -23,7 +23,7 @@ Console.Write("\n");
 
 imc = weight / (heightConverted * heightConverted);
 
-if (age>18 && age <60)
+if (age > 18 && age < 60)
     if (imc < 16.0)
         Console.Write("Seu IMC é de " + imc + " e está classificado como Magreza grave.");
     else if (imc >= 16.0 && imc <= 16.9)
@@ -38,13 +38,14 @@ if (age>18 && age <60)
         Console.Write("Seu IMC é de " + imc + " e está classificado como Obesidade grau I.");
     else if (imc >= 35.0 && imc <= 39.9)
         Console.Write("Seu IMC é de " + imc + " e está classificado como Obesidade grau II.");
-    else 
+    else
         Console.Write("Seu IMC é de " + imc + " e está classificado como Obesidade grau III.");
-else
+else if (age > 59)
     if (imc < 22.0)
         Console.Write("Seu IMC é de " + imc + " e está classificado como Baixo peso.");
     else if (imc >= 22.0 && imc <= 27)
         Console.Write("Seu IMC é de " + imc + " e está classificado como Adequado.");
     else
         Console.Write("Seu IMC é de " + imc + " e está classificado como Sobrepeso.");
-
+else
+    Console.Write("Sua idade é inferior a 19 anos, procure um profissional da saúde para realizar o cálculo do seu IMC com base na tabela da OMS.");
