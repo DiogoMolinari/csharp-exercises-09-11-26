@@ -1,11 +1,11 @@
 <Solution>
-  <Project Path="../Ex2/Ex2NumbersCompair.csproj" />
-  <Project Path="../Ex3/Ex3Averages.csproj" />
-  <Project Path="../Ex4/Ex4Math.csproj" />
-  <Project Path="../Ex5/Ex5Year.csproj" />
-  <Project Path="../Ex6/Ex6AgeClassify.csproj" />
-  <Project Path="../Ex7/Ex7BMI-IMC.csproj" />
-  <Project Path="../Ex8/Ex8Salary.csproj" />
-  <Project Path="../Ex9/Ex9TriangleType.csproj" />
+  <Project Path="../Ex2NumbersCompair/Ex2NumbersCompair.csproj" />
+  <Project Path="../Ex3Averages/Ex3Averages.csproj" />
+  <Project Path="../Ex4Math/Ex4Math.csproj" />
+  <Project Path="../Ex5Year/Ex5Year.csproj" />
+  <Project Path="../Ex6AgeClassify/Ex6AgeClassify.csproj" />
+  <Project Path="../Ex7BMI-IMC/Ex7BMI-IMC.csproj" />
+  <Project Path="../Ex8Salary/Ex8Salary.csproj" />
+  <Project Path="../Ex9TriangleType/Ex9TriangleType.csproj" />
   <Project Path="Ex1/Ex1EvenOdd.csproj" />
 </Solution>
