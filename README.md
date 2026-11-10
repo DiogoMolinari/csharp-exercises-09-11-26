@@ -18,3 +18,7 @@
 
 **Exercício 9:** Faça um programa que receba o valor de três lados de um triângulo e informe o tipo do triângulo (equilátero, isósceles ou escaleno). Obs.: os lados informados devem formar um triângulo.
 
+
+
+Obs.: Para executar o programa, temos a solução dentro da pasta do Ex1. 
+
